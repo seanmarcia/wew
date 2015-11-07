@@ -1,0 +1,81 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+
+# On Writing
+[Writing with the Master](http://paw.princeton.edu/issues/2014/11/12/pages/3295/index.xml)  
+Profiles John McPhee, a staff writer for the New Yorker and professor at
+Princeton. Uses accounts from McPhee's students to illustrate his
+erudition.
+
+[The Patch by John McPhee](http://www.newyorker.com/magazine/2010/02/08/the-patch)  
+As a companion to the profile of John McPhee, I've included this piece
+of his. In an attempt to understand better the reverence with which his
+students speak of him, I read three of his past New Yorker articles. "The
+Patch" struck me as the most appropriate. I hope you like it.
+
+# Food and Food Production
+[Evolution of Diet](http://www.nationalgeographic.com/foodfeatures/evolution-of-diet/)  
+Examines traditional diets of various indigenous cultures.
+Discusses how these diets can inform the development of a modern diet
+that is both healthy and sustainable. Avoids
+dogma and keeps the reader engaged.
+
+[The Next Green Revolution](http://www.nationalgeographic.com/foodfeatures/green-revolution/)  
+Surveys the different ways agricultural yields could
+increase to accommodate increasing populations. Eclipses other articles
+on this topic by
+balancing differing opinions on what agricultural
+technologies will lead to the best future.
+Tidbits about Juma, a cassava farmer from Tanzania, complement the more
+scientific aspects of the article.
+
+# Banking
+[Small Bank in Kansas is a Financial Testing Ground](http://dealbook.nytimes.com//2014/12/13/small-bank-in-kansas-is-a-financial-testing-ground/)  
+Discusses how a small bank in Kansas combines a traditional bank
+model with innovative uses of technology to serve its customers better.
+This approach falls short of the "disruption" championed by Silicon
+Valley elites, but nevertheless represents a valuable means of
+modernizing outdated systems.
+
+# Torture
+[Panel Faults C.I.A. Over Brutality and Deceit in Terrorism
+Investigations](http://www.nytimes.com/2014/12/10/world/senate-intelligence-committee-cia-torture-report.html?_r=0)  
+Summarizes the recently-released Senate report on C.I.A. interrogation tactics, the hearings following its release, and the C.I.A's response to the report. Although this article displays a mild bias in favor of the Senate report, it manages to cover the main sides of the debate.
+
+[A Tortured Report](http://www.weeklystandard.com/articles/tortured-report_821202.html?nopager=1)  
+Argues that the Senate report both understates the effectiveness of the
+interrogation techniques employed and omits parts of the truth in order
+to protect Democratic Party higher-ups from potential fallout.
+
+[Glenn Greenwald Salon Interview](http://www.salon.com/2014/12/11/exclusive_corrupt_toxic_and_sociopathic_glenn_greenwald_unloads_on_torture_cia_and_washingtons_rotten_soul/)  
+Glenn Greenwald, known primarily for authoring the
+Guardian's original article about Edward Snowden's leaking
+information about the NSA, argues that
+the C.I.A's employment of torture and the accompanying cover-up reflect intrinsic corruption in Washington's political and media
+estates.
+
+# Other Contributions
+[York and Fig: At the Intersection of Change](http://yorkandfig.com/#post-228) (Matt Ritter)  
+Provides interesting perspectives on the individuals that led the
+gentrification of Highland Park, Los Angeles. Presents a generally
+unbiased viewpoint about an issue that advocates on all sides painfully
+distort.
+
+However, the author overlooked certain positive changes resulting from
+gentrification,
+including the inevitable reduction in crime. He also neglected to explore the possibility that
+vandals targeted the gay couple partly due to their sexuality.
+
+Further discussion of the economic factors behind gentrification would
+have enhanced the article.
+For example, an exploration of the relationship between gentrification
+and widespread rent control in Los Angeles would have been enlightening.
+
+[How Gangam Style broke YouTube's counter](http://www.economist.com/blogs/economist-explains/2014/12/economist-explains-6?fsrc=scn/fb/wl/bl/ee/howgangamstylebroketheyoutubecounter) (Noah Reichblum)  
+Explains how the view count of "Gangam Style" managed to exceed YouTube's View Counter
+integer limit. Elucidates the mathematics behind the bug simply and
+succinctly.

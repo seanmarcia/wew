@@ -1,0 +1,46 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+# Corporations
+[Are We Ready For Companies That Run Themselves?](http://aeon.co/magazine/technology/are-we-ready-for-companies-that-run-themselves/)  
+Covers the rise of autonomous corporations and discusses its underlying forces and
+technologies. Questions whether these corporations will
+liberate us from scarcity or further enslave us to it.
+
+# Farming
+[An Ex-Industrial Fisherman Rethinks His Job](http://blog.longreads.com/2015/01/26/an-ex-industrial-fisherman-rethinks-his-job/)  
+Reviews Bren Smith, an ocean farmer working to use sustainable farming
+methods on the sea to make a living and produce food and fuel.
+
+[Seeds of Doubt](http://www.newyorker.com/magazine/2014/08/25/seeds-of-doubt?src=longreads)  
+Presents a nuanced view of GMOs and profiles anti-GMO activist
+Vandana Shiva. Systematically refutes her claims about the
+effects of GMO crops on individuals and populations.
+
+# Medicine
+[DIY diagnosis: how an extreme athlete uncovered her genetic flaw](http://mosaicscience.com/story/diy-diagnosis-how-extreme-athlete-uncovered-her-genetic-flaw?src=longreads)  
+Tells the story of Kim Goodsell's discovery of
+the common cause of her two rare genetic diseases. This story hints at
+the future of greater personalization in medicine.
+
+# History
+[How the Tudors invented Breakfast](http://www.historyextra.com/feature/tudors/how-tudors-invented-breakfast)  
+Investigates the recent origin of breakfast and relates it to the
+modern workday's emergence.
+
+# Other Contributions
+[Social Justice and Words, Words, Words](http://slatestarcodex.com/2014/07/07/social-justice-and-words-words-words/) (Will Baird)  
+Identifies issues with the social justice movement.
+
+[A Second Look at Bipartisanship](http://thedartmouthchronicle.com/articles/a-second-look-at-bipartisanship/) (Will Baird)  
+  >“Those seeking a golden age of bipartisanship somewhere in America’s
+  >history really ought to skip the 19th century altogether.”
+
+[The Return of Anti-Semitism](http://www.wsj.com/articles/the-return-of-anti-semitism-1422638910?mod=trending_now_1) (Andrew Lindner)  
+Asserts that anti-semitism is on the rise both in Europe and the Middle
+East. The author argues that this trend will negatively impact both
+Jewish communities and the communities which persecute them, citing
+history as evidence for this.

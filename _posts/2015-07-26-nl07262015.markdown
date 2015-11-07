@@ -1,0 +1,32 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+## Linguistics
+[How to Say (Almost) Everything in a Hundred-Word Language](http://www.theatlantic.com/technology/archive/2015/07/toki-pona-smallest-language/398363/)  
+Explores Toki Pona, the world's smallest language. Describes the linguistic idiosyncrasies that arise from the severely limited vocabulary of the language.
+
+## Nature's Algorithms
+[Decoding the Remarkable Algorithms of Ants](https://www.quantamagazine.org/20150625-decoding-the-remarkable-algorithms-of-ants/)  
+Interviews a scientist studying the swarm behavior of ants in an attempt to translate ant colony behavior into computer algorithms.
+
+## Education
+[A New Look at Apprenticeships as a Path to the Middle Class](http://mobile.nytimes.com/2015/07/14/business/economy/a-new-look-at-apprenticeships-as-a-path-to-the-middle-class.html)  
+Profiles the Apprenticeship School, an apprenticeship program that serves a Navy shipyard. Covers the broader potential for apprenticeships to
+satisfy the "hunger among young people for good, well-paying jobs that don’t require an expensive four-year degree."
+
+## Other Contributions
+[Hackers Remotely Kill a Jeep on the Highway -- With me in it](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) (Scott Gladstone)  Scott said, "The fact that Jeep/Chrysler could push a car through development and testing to full-scale production with such an outrageous hack is pretty ridiculous and terrifying."
+
+On my end, I especially enjoyed the discussion of the thought processes that went into these guys’ hack.
+
+[Charity Navigator 3.0: The Empirical Empire's Death Star?](http://nonprofitquarterly.org/2013/04/05/charity-navigator-3-0-the-empirical-empire-s-death-star/) (Will Baird)  
+Baird offered this article as a counter to last week's article about Effective Altruism.  Baird described the articles as follows, "I thought this was a very good counter-point to the idea that all charitable donations should be driven by empiricism."
+
+[Self-Aware Robot Solves Riddle](http://news.discovery.com/tech/robotics/self-aware-robot-solves-riddle-150724.htm#mkcpgn=rssnws1) (Leslie Cofer)  
+Discusses a robot that managed to solve a riddle that only humans have solved previously. This is a fascinating testament to the continuous advancement of computational intelligence.
+
+[One Company's New Wage: $70,000 a Year](http://mobile.nytimes.com/2015/04/14/business/owner-of-gravity-payments-a-credit-card-processor-is-setting-a-new-minimum-wage-70000-a-year.html?_r=0) (Mark Malina)  
+Examines the CEO of Gravity Payment's decision to set a minimum wage of $70,000 for the entire company.  I'm incredibly impressed by this CEO's boldness and willingness to challenge organizational assumptions. I can only hope that more executives will experiment with their organizations in the future, not only with their wages, but with all aspects of their organizations.

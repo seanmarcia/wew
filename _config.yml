@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Walter Williams
+url: https://walterewilliams.github.io
+description: Personal Website of Walter Williams.
+twitter: WE_Williams

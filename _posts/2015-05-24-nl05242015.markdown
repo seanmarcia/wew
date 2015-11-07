@@ -1,0 +1,41 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+
+## Psychology and Brain Science
+[Is LSD about to return to polite society?](http://www.theguardian.com/society/2015/apr/26/lsd-amanda-feilding-depression-anxiety-science)  
+Profiles the matriarch of the Beckley Foundation, an organization which aims to popularize scientific research focused on psychedelic therapies for addiction. Does a good job of presenting both sides of the issue.
+
+[The meanings of life](http://aeon.co/magazine/psychology/do-you-want-a-meaningful-life-or-a-happy-one/)  
+Famous psychologist and author of [Willpower](http://amzn.to/1SxUIa8), Roy Baumeister, discusses the relationship between feelings of meaningfulness and happiness. Baumeister uses these topics as a jumping off point for a discussion of what factors contribute to individuals' feelings of meaning.
+
+## Entrepreneurship
+[Life as a Professional Mermaid](http://priceonomics.com/life-as-a-professional-mermaid/)  
+Profiles Mermaid Melissa, a "professional mermaid" who's built a thriving business as an underwater performer.
+
+[DIY prosthetics: the extreme athlete who built a new knee](http://mosaicscience.com/story/extreme-prosthetic-knee)  
+Profiles Brian Bartlett, an extreme sports athlete and amputee. Brian stumbled into entrepreneurship when people got word of the artificial knee he'd designed and used to win mountain biking races.
+
+[The Very Model of a Modern Mineral Dealer](http://priceonomics.com/the-very-model-of-a-modern-mineral-dealer/)  
+Profiles Robert Lavinsky, founder of the Arkenstone, one of the largest online mineral retailers. Shows how a passion can become a career with the right outside factors and innovative business strategies.
+
+# Stoicism
+[Jonathan Newhouse, Stoic CEO of Conde Nast's international empire](http://philosophyforlife.org/jonathan-newhouse-stoic-emperor-of-the-conde-nast-empire/)  
+Interviews Jonathan Newhouse, the CEO of Conde Nast about his following of Stoic precepts. Seeing people such as Newhouse come out as followers of Stoicism only increases my ongoing fascination with the philosophy.
+
+## Business
+[Patagonia's Anti-Growth Strategy](http://www.newyorker.com/business/currency/patagonias-anti-growth-strategy?sf9473030=1)  
+Discusses Patagonia's corporate and environmental philosophies and the potential conflicts between them. I agree with Lydia Baird, a Patagonia customer interviewed in the article, in that I don't believe that Patagonia's strategy of good growth conflicts with its environmentalist philosophy.
+
+## Game Theory
+[Natural police](http://aeon.co/magazine/society/game-theorys-cure-for-corruption-make-us-all-cops/)  
+Uses recent research about game theory to argue for a novel approach to squashing corruption. The article fails to account for the lack of evolved versions of the strategies it presents. Why have no modern societies adopted these strategies naturally?
+
+## Other Contributions
+[Better Than Raising the Minimum Wage](http://www.wsj.com/articles/better-than-raising-the-minimum-wage-1432249927) (Kevin Francfort)  
+Warren Buffett argues for an alternative to raising the minimum wage by increasing the Earned Income Tax Credit.Buffet's argument resembles Milton Friedman's proposed [Negative Income Tax](https://en.wikipedia.org/wiki/Negative_income_tax) and proposals for a Universal Basic Income. Kevin sent me the following blurb to go along with the article:
+
+  >"I appreciate Buffett’s attempt at a rational conversation regarding minimum wages and how we can best support individuals and families struggling to earn a living in the US. Economically, Buffett’s argument makes a lot of sense – removing the distortion of a higher minimum wage while effectively supporting the same people earning these low incomes. Politically, I wonder if this sort of idea is feasible. It seems to me that supporters of increases to minimum wage laws care about the symbolism of a higher wage, despite the negative labor effects. Having this extra income come in the form of government assistance may be less politically feasible. But I’m glad to see Buffett bringing this discussion up."

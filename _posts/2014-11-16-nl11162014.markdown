@@ -1,0 +1,74 @@
+---
+layout: post
+title: Weekly Newsletter (11-16-2014)
+category: posts
+draft: false
+---
+
+# Philosophy
+[Did Zen philosophy create the Kamikaze?](http://aeon.co/magazine/society/did-zen-philosophy-create-the-kamikaze/)  
+Pontificates on the relationship between WWII-era Zen philosophers and Japanese Jingoism.
+
+[A murderer's warped idealism](http://www.washingtonpost.com/opinions/george-f-will-bettina-stangneth-reveals-adolf-eichmanns-warped-idealism/2014/11/14/33de5bba-6b81-11e4-a31c-77759fc1eacc_story.html)  
+Contrasts previous portrayals of Adolf Eichmann as "terrifyingly normal" and "banal" with stories
+of his devotion to "the Final Solution."
+
+# Our Miraculous Biosphere
+[The Termite and the Architect](http://nautil.us/issue/8/home/the-termite-and-the-architect)  
+Begins by talking about an architect's attempt to mimic the way termites' mounds manage air flow,
+and then uses this example as an example of biomimicry. Due to this article, I've
+latched onto the question of what would happen if we could harness the full power of swarms in
+our architecture and even our economy?
+
+[The Planternet](http://www.bbc.com/earth/story/20141111-plants-have-a-hidden-internet)  
+Describes our growing understanding of the "wood-wide web," the fungal connections that allow
+plants to communicate in previously unforeseen ways. The similarities with the internet presented
+are fascinating and potentially instructive for the architects of the next web.
+
+# Education
+[Why Air Force Cadets study the
+humanities](http://www.theatlantic.com/education/archive/2014/11/at-the-air-force-academy-stem-education-isnt-enough/382793/)  
+Details how the Air Force academy combines a rigorous STEM curriculum with a healthy dose of liberal
+arts. As a student at a liberal arts college and a STEM major, this article felt relevant to me.
+Beyond that, I thought the Air Force academy's methodology presented a compelling portrait of the
+future of liberal arts education. Like it or not, liberal arts colleges seem to be integrating and
+expanding traditionally pre-professional disciplines, and this article provided a way to do this
+while maintaining a focus on the traditionally espoused benefits of the humanities.
+
+# Mind and Brain
+[Positive Effects of Bilingualism on the
+Brain](http://www.livescience.com/48721-bilingual-brain-bodybuilders.html)  
+Summarizes recent research on the neurological effects of speaking two languages. I often face a
+dilemma when including soft science articles like this one. On one hand, I find the basic thesis of
+this article and the study it describes compelling and fascinating. On the other hand, I am acutely
+aware of the dangers of blindly trusting "fad science," a category in which articles like this often
+fall into. My solution to this tension is simply to make you aware of it. So, read the article or
+don't. But, if you do, be aware of my reservations.
+
+# Technology and Politics
+[On Net Neutrality](http://www.technologyreview.com/featuredstory/531616/the-right-way-to-fix-the-internet/)  
+Carefully breaks down the argument for net neutrality. This issue defies typical party lines and
+endlessly confuses me. The article definitely presents a pragmatic
+case for opposing net neutrality. The author displays an awareness of how the modern internet works and what
+features of it are important to protect.
+
+# Robotics and Prosthetics
+[Rise of the Robot Security
+Guards](http://www.technologyreview.com/news/532431/rise-of-the-robot-security-guards/)  
+Presents some of the first robot security vehicles. These bots both present a huge opportunity and a
+surveillance nightmare.
+
+[The Boy with the Lego Hand](http://www.theatlantic.com/technology/archive/2014/11/the-boy-with-the-lego-hand/382637/)  
+Inspires the reader with a story of a boy who managed to work with a professional product designer
+to build a new prosthetic hand that fits his needs.
+
+# Productivity
+[Workplace Productivity Experiment](https://medium.com/matter/work-it-harder-make-it-better-do-it-faster-makes-us-stronger-65c137c79aeb)  
+A New York Magazine writer details his attempts to increase his day-to-day workplace productivity.
+The blend of useful information presented and playfulness make this article worthwhile.
+
+# Other Contributions
+[Michigan Blocking Tesla from selling
+Cars](http://www.forbes.com/sites/michelinemaynard/2014/10/21/michigan-to-tesla-motors-youre-not-welcome/) \(Contributed by **Paul**, Described by **Me**\)  
+Discusses Michigan's efforts to block Tesla from selling cars in their stores in Michigan. I have no
+tolerance for this sort of politicking but you are free to come to your own conclusions.

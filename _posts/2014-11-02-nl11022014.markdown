@@ -1,0 +1,97 @@
+---
+layout: post
+title: Weekly Newsletter (11-02-2014)
+category: posts
+draft: false
+---
+This is a weekly newsletter I publish each week that contains content I enjoyed and hope that you
+will enjoy. If you have questions or comments, you can find me at [stephenmalina@gmail.com](mailto: stephenmalina@gmail.com) or on [Twitter](http://www.twitter.com/krazemon).
+
+# Technology and Human Augmentation
+**[A Spreadsheet Way of Knowledge](https://medium.com/backchannel/a-spreadsheet-way-of-knowledge-8de60af7146e)**  
+A long, in-depth piece on the history of spreadsheet modeling. The two points that stick with me
+from this piece are the dismissive attitude people initially had towards the spreadsheet and the
+obsession with modeling people displayed (and continue to display). I am
+fascinated by the latter point because I often find myself falling into a similar way of thinking in
+regards to various metrics I track.
+The way I typically snap myself out of model or metrics obsession is by reminding myself that ["the map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation#.22The_map_is_not_the_territory.22).
+
+**[The Personal Cloud](http://avc.com/2014/10/the-personal-cloud/)**  
+Discusses the implications of ubiquitous embedded computing, in particular, the idea that our
+devices will become so ethereal that they will resemble a cloud of information processing. I liked
+this article because it reminded me of an idea around which I often frame my thinking about
+technology, called the [exocortex](https://en.wikipedia.org/wiki/Exocortex#Computer_science_roots).
+The exocortex is a theoretical set of external information processing tools which are so tightly
+integrated with our organic thinking processes that they mesh seamlessly. I think anyone interested
+in the future of human-augmenting technology will enjoy this article as a starting point for
+thinking and learning more about the exocortex / personal cloud.
+
+**[Portal 2 Improves Cognitive Skill more than Lumosity](http://www.popsci.com/article/gadgets/portal-2-improves-cognitive-skills-more-lumosity-does-study-finds?dom=PSC&loc=recent&lnk=1&con=IMG)**  
+Summarizes a recent study whose results indicate that playing Portal 2, a puzzle video game, has
+more beneficial effects on fundamental cognitive skills than Lumosity, a popular brain-training
+website. This is intriguing to me, because I have always envisioned someone one day inventing a game
+that was so challenging and thought-provoking that it could educate individuals and turn them into
+vastly better problem solvers.
+
+# Technology and Society
+**[Julian Assange: Google is not what it seems](http://www.newsweek.com/assange-google-not-what-it-seems-279447)**  
+Narrates a meeting with Eric Schmidt and comments on Google as a data-capturing giant. As this is by
+Julian Assange, the founder of Wikileaks, it is sure to be controversial. I fall somewhere between
+Assange and Eric Schmidt in terms of my views on data collection, but I definitely find Assange's
+case against Google compelling. And, although he is a controversial figure, in light of the Edward
+Snowden reveals, I am inclined to listen more closely to what he says than I would have previously.
+I have more to say about this topic, so please contact me if you are interested in discussing it
+further.
+
+**[J.R.R. Tolkien - enemy of progress](http://www.salon.com/2002/12/17/tolkien_brin/)**  
+Analyzes the Romantic and aristocratic impulses present in Lord of the Rings and relates them to
+modern sentiment. Althought this was written over 10 years ago, I think it rings very true in
+today's political and pop-culture climate. Also, I'm currently reading David Brin's new book,
+[Existence](http://www.davidbrin.com/existence.html) and enjoying it. Thus, I thought this piece could
+act as an introduction to David Brin's corpus of work, as I think he's one of the more thoughtful
+sci-fi authors of our time, alongside Neal Stephenson and Charles Stross.
+
+
+# Education
+**[A New Breed of University](http://www.wired.com/2014/10/minerva-project/)**  
+I suspect this will be one of the more controversial pieces in the newsletter, so I am
+intentionally keeping my thoughts short in the hope you will contact me individually to discuss this
+further. My main takeaway from this piece is that competition in educational methods is important
+and currently severely lacking. Although we see high levels of competition between elite schools in
+terms of attracting applicants (up and down the age spectrum). Teaching methodology, particularly at
+the collegiate level, is slow to improve, despite certain colleges' attempts (I am thinking of
+Dartmouth's experiential learning initiative in particular). I think the Minerva project and other
+projects like it are good because they will force elite institutions to reevaluate their teaching
+methodologies.
+
+# Infographics
+**[Magic Mushrooms' Effect on the Brain](http://www.wired.com/2014/10/magic-mushroom-brain/)**  
+This was actually sent to me by Will, I just wanted to include it here because it falls perfectly in
+the infographic category. In regards to the piece, the title says all that needs to be said for this one. Take a look if you are at all interested in
+brain-related science.
+
+**[Obamacare: Heatmap of who was helped the
+most](http://www.nytimes.com/interactive/2014/10/29/upshot/obamacare-who-was-helped-most.html?_r=2&abt=0002&abg=1)**  
+Same thing as the prior infographic, except with a more political bent.
+
+# Other Contributions
+**[Living Simply in a
+Dumpster](http://www.theatlantic.com/features/archive/2014/09/the-simple-life-in-a-dumpster/379947/)** \(Submitted by Andrew, Described by Me\)  
+Fun, fascinating portrait of a professor experimenting with a new, innovative way of living. As
+those who know me can attest, I possess some serious minimalist tendencies so I was delighted to hear
+about this experiment. Beyond that, however, I was impressed with the way in which this project
+blends a focus on sustainability with an insistence on not sacrificing necessary (in my opinion)
+modern technologies and a modern level of connectedness.
+
+**[Going against the Grain](http://www.newyorker.com/magazine/2014/11/03/grain)**\(Submitted by Jen,
+Described by Me\)  
+Analyzes the merits, demerits, and mythology surrounding gluten. As a current follower of a
+"gluten-free diet", I will say that the benefits of the restrictions I place on my self do seem to
+be more associated with avoiding more obvious unhealthy foods. Unfortunately, the broader point I've
+come to understand is that food is by no means a solved problem. The author of this piece states
+that the real solution is to eat a "whole foods" diet but what that really means is unclear. Perhaps
+one day technology will lead to a more informed discussion around diet through ubiquitous
+measurement and tracking, but, until then, I feel as in the dark as any one in this debate.
+
+---
+

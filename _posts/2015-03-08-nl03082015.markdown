@@ -1,0 +1,33 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+# Mental Health
+[The voices in my head: Eleanor Longden's 'psychic civil war'](http://www.theguardian.com/technology/2013/aug/08/ted-talk-eleanor-longden-schizophrenia)  
+The Guardian interviews Elanor Longden, a woman who started hearing voices while in college. Longden discusses her ordeal and subsequent recovery, shedding light on the nature of her disease. One of the commenters on this article wrote a thoughtful comment, which I've included
+
+  >"It makes me wonder that we all have these voices to some degree, but that it's rarer to have them be so articulate, so able to enunciate distinct aspects of our personalities. More commonly, I wonder that most of us experienced our 'voices' as something more akin to shapeless feelings and emotions (worry, depression, anxiety, contentedness, silliness). Maybe many of us can keep from hearing and actually acting on these voices in helpful ways because they are so shapeless and subdued, but that's to our detriment, perhaps."
+
+[Can theatre be used to treat mental illness?](http://aeon.co/magazine/psychology/can-theatre-be-used-to-treat-mental-illness/)  
+Similarly to the first article, calls into question traditional treatments for mental illness and presents a potential supplement to them.
+
+# Language
+[5 Languages that could change the way you see the world](http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world)  
+Discusses 5 languages that have measurable effects on their speakers.
+
+# Future of Health and Medicine
+[How to turn your dog off](http://nautil.us/issue/22/slow/how-to-turn-your-dog-off)  
+Discusses the prospects for real-life suspended animation and its potential uses in life-saving procedures.
+
+# Business
+[Felons, addicts, immigrants: This bakery will hire anyone](http://grist.org/food/felons-addicts-immigrants-this-bakery-will-hire-anyone/)  
+Profiles Greyston Bakery, a bakery in Yonkers, NY that has an open hiring policy. This piece calls into question typical metrics for employee viability, but fails to address the extent to which this approach can be used in other situations.
+
+# Other Contributions
+[The Intellectual Bankruptcy of Intellectual Property](http://thedartmouthchronicle.com/articles/the-intellectual-bankruptcy-of-intellectual-property/) (Will Baird)  
+Baird, a regular reader of and contributor to the newsletter, argues against intellectual property regulations.
+
+[Why Our Children Don't Think There Are Moral Facts](http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/?_r=1) (Will Baird)  
+Argues that schools force students into a morally relativistic worldview.

@@ -1,0 +1,34 @@
+---
+layout: layout
+---
+
+<section class="content">
+  <h1>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </h1>
+
+  <section class="byline">
+    {{ page.date | date: "%B %e, %Y" }}
+  </section>
+
+  {{ content }}
+
+  <!-- TODO: bio here -->
+  <section class="meta">
+    <h3>Discussion, links, and tweets</h3>
+    <section class="copy">
+      <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
+      </a>
+
+      <p>
+        I'm a software developer currently working at [Compass](www.compass.com). I keep a
+        low social media presence, but, if you enjoy what I have to say or want to rant at me, you
+        should email me at <a href="mailto: stephenmalina@gmail.com">stephenmalina@gmail.com</a>. If
+        you want to stalk me through the images I take, you will likely enjoy my <a
+          href="http://instagram.com/krazemon">instagram</a>. If you want to see what I'm
+        currently hacking on, you should check out my <a
+          href="http://github.com/krazemon">Github</a>.     </p>
+
+    </section>
+  </section>
+</section>

@@ -1,0 +1,37 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+# Mystery
+[The Mystery of the Millionaire Metaphysician](http://www.slate.com/articles/life/culturebox/2012/02/the_mystery_of_the_millionaire_metaphysician_slate_republishes_one_of_the_greatest_magazine_stories_ever_written_.single.html)  
+A republishing of an old story, this piece recounts a writer's search for the author of a mysterious metaphysics manuscript. I don't want to spoil the story so you'll have to read it to learn more.
+
+# Psychological Warfare and Foreign Policy
+[Inside the Kremlin's hall of mirrors](http://www.theguardian.com/news/2015/apr/09/kremlin-hall-of-mirrors-military-information-psychology)  
+Investigates the Kremlin's disinformation campaign and questions its reach. I thought this article did a phenomenal job of explaining the theory that led to the Kremlin's employment of these tactics. However, the author's perspective seems to preclude the possibility that these tactics are more widespread -- a possibility that I'm open to in light of revelations about Western governments' internet spying and treatment of journalists. The author also, in my opinion, assumes an unreasonably high level of competence and coordination on the part of the Kremlin at the end of the article which detracts from his overall argument.
+
+# Future Science
+[Terminally Ill Man Set to Undergo Head Transplant](http://www.dailymail.co.uk/news/article-3029376/Russian-volunteer-head-transplant-operation-Valery-Spiridonov-says-no-choice-undergo-7-5million-procedure-controversial-Italian-surgeon-Dr-Sergio-Canavero.html)
+Profiles the patient set to undergo the first human head transplant, during which his head will be transplanted onto the body of a formerly brain-dead person. When I discussed this article with a few friends, I was consistently surprised by how vehemently they opposed the procedure. For a reason I don't seem to grasp, people seem to have a negative reaction to the idea before even hearing about the specifics.
+
+Assuming this is the case for you, I ask that you suspend your disgust for a second and consider a few key points. First, the man set to undergo this procedure is terminally ill and severely disabled. The primary counter-argument given for this procedure is that this man will die or end up in a situation exponentially worse than death. I think this argument's utterly ridiculous. To the first point, the man is terminally ill. Therefore, his death will occur soon in lieu of the procedure anyway. Unless you take an extreme point of view that every second of life even for a person experiencing immense suffering is important, I think it's reasonable to say that the potential benefit of this procedure is potentially worth the risk of death. People choose to undergo dangerous procedures in exchange for a new lease on life relatively frequently regardless. In regards to the second point, this man is certainly aware of the risk of the procedure and is seemingly of sound mind. Furthermore, regardless of whatever framework for measuring suffering you choose to employ, it's pretty clear to me that this man suffers quite a bit on a daily basis. Therefore, I think arguing that this surgery could result in a fate worse than death ignores the reality of his current situation.
+
+All this being said, I'm aware that there are readers of this newsletter who will still find these arguments and the idea of a head transplant revolting and immoral. If you fall into this category, I'd love to hear why.
+
+# Education
+[The Work-College Revival](http://www.newyorker.com/business/currency/the-work-college-revival)  
+Discusses work colleges, which are colleges where all students work while taking classes. Argues that although the work college model cannot be adopted on a wider scale, normal colleges can learn from these institutions.
+
+# Politics
+[The End of Asymmetric Information](http://www.cato-unbound.org/2015/04/06/alex-tabarrok-tyler-cowen/end-asymmetric-information)  
+Argues that the increasing availability of information is leading to a lessening of the need for regulations protecting exploitation of information asymmetries.
+
+# Health and the Mind
+[A General Feeling of Disorder](http://www.nybooks.com/articles/archives/2015/apr/23/general-feeling-disorder/)  
+Oliver Sacks ties neuroscience into a discussion of his recent treatment and experiences in a wonderful piece.
+
+# Other Contributions
+["Everything is problematic"](http://www.mcgilldaily.com/2014/11/everything-problematic/?utm_source=newsletters&utm_medium=email&utm_campaign=JVL+03_25_15) (Spencer Blair)  
+A formerly involved member of the Montreal radical Left movement discusses why she is no longer involved in the movement and the issues she sees with it. This article is well-written and compelling. While Spencer (the contributor of this article) and I disagree on many issues, but we both agreed that this article makes great points.

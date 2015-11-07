@@ -1,0 +1,39 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+# Learning and Education
+[How I Rewired My Brain to Become Fluent in Math](http://nautil.us/issue/17/big-bangs/how-i-rewired-my-brain-to-become-fluent-in-math-rd)  
+An engineering professor recounts how she went from being a language person without a college degree to an engineer with a doctorate. The author provides a unique perspective on the process of learning technical subjects and supplements her own experience with knowledge taken from her subsequent study of learning processes.
+
+[How to learn 30 languages](http://www.bbc.com/future/story/20150528-how-to-learn-30-languages)  
+Explores the world of hyperpolyglots, individuals who typically speak between 10 and 20 languages fluently. This article and the prior article go well together. They explore different genres of learning but both come to the same basic conclusion about adult neuroplasticity. I do wish this article had further explored the effect of common language on cross-cultural relationships. I suspect languages play an underestimated role in prejudice and aggressive nationalism.
+
+# Mind and Brain
+[Consciousness Began When the Gods Stopped Speaking](http://nautil.us/issue/24/error/consciousness-began-when-the-gods-stopped-speaking)  
+Investigates the life and work of eccentric psychologist Julian Jaynes. The influence Jaynes' work had on other now prominent psychologists was the most interesting part of this article. I've noticed that many scientists often cite unexpected sources as their inspiration for entering their field and this is no exception. Grand works like Jaynes' often fail, but the effect they have -- inspiring amazing scientists like Daniel Dennett -- seems more important to me than the validity of the work itself. Paul Hains, the founder of Aeon Magazine's quote sums it up well:
+
+  >"Jaynes went after a huge question, that is the nature of human consciousness. He was so clearly driven: a seeker for whom the question of the nature of human consciousness was much more than intellectual, it was, as he himself implies, like the quest for the Holy Grail. His approach to consciousness reminds me of the story of the fish, who hears of the thing called ‘water’, who goes through all sorts of hardships, travels the ocean, all in order to understand what water is, and finally return, with the understanding of what water is. Other fish might scoff, since they were contentedly swimming in it all the time, but that fish alone has the drive and curiosity to understand the element in which he lives, which pervades and permeates his life. That is how consciousness seems to Jaynes. "
+
+[Hacking the nervous system](http://mosaicscience.com/story/hacking-nervous-system)  
+Explores vagus nerve electric stimulation, a new alternative treatment being used to treat rheumatoid arthiritis.
+
+# Technology, Agriculture, and the Environment
+[The Return of Nature](http://thebreakthrough.org/index.php/journal/issue-5/the-return-of-nature)  
+Argues that technological breakthroughs in agriculture have reduced land use and prevented Malthusian predictions of resource scarcity from coming to fruition. States that the way forward involves embracing a symbiotic melding of technology and agriculture. In particular, the discussion of using hydrogen and microorganisms to create food was mind-blowing. This article reminds of a quote by R. Buckminster Fuller about a phenomenon he labelled ephemeralization. Fuller described ephemeralization as a process of doing "more and more with less and less until eventually you can do everything with nothing."
+
+# Health
+[The Nutrition Gap](http://www.newrepublic.com/article/121806/nutrition-gap-are-doctors-ready-think-outside-pillbox)  
+A doctor discusses physicians' current views on the validity of diet as a component of medical treatment.
+
+# Journalism
+[Glenn Greenwald, I'm Sorry: Why I changed my mind on Edward Snowden](http://www.salon.com/2015/05/23/glenn_greenwald_im_sorry_why_i_changed_my_mind_on_edward_snowden/)  
+If you've been reading the newsletter for a while, you've probably figured out my views on Edward Snowden by now. On most issues I try to keep the newsletter relatively independent from my own views, but I've clearly failed to do this in regards to the Snowden revelations. I've included this article despite my awareness of my own impartiality because I think it showcases something incredibly rare in the American political sphere, a prominent journalist and former political figure changing his mind.
+
+In this article, Hodding Carter, best known as the Assistant Secretary of State for Public Affairs in the Jimmy Carter administration,  explains why he changed his views on the Snowden revelations.
+
+# Other Contributions
+[Obama Defends the Iran Nuclear Deal](http://www.theatlantic.com/international/archive/2015/05/obama-interview-iran-isis-israel/393782/) (Asher Mayerson)  
+Jeffrey Goldberg interviews President Obama and discusses the more important parts of the interview.

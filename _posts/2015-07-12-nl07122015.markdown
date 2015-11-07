@@ -1,0 +1,34 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+## Evolutionary Biology and Health
+[To Stop Mosquito Bites, Silence Your Skin's Bacteria](http://www.smithsonianmag.com/science-nature/stop-mosquito-bites-silence-your-skins-bacteria-180955772/?no-ist)  
+Discusses a technique which could prevent mosquitoes bites by silencing the communication between bacteria on human skin. Mosquitoes detect this communication on human skin and bite people after detecting it.
+
+## Cognitive Science
+[What's the evidence on using rational arguments to change people's minds?](https://www.contributoria.com/issue/2014-05/5319c4add63a707e780000cd)  
+Argues that reason is more powerful than recent cognitive science research might lead us to believe. I have confirmation bias towards this argument so I'm withholding judgement until I hear others' opinions on it.
+
+[Picture This? Some Just Can't](http://www.nytimes.com/2015/06/23/science/aphantasia-minds-eye-blind.html?referrer=&_r=0)  
+Explains Aphantasia. Sufferers of Aphantasia lack any conscious experience of a mind's eye.
+
+[Rewiring the Brain to Create New Senses](http://motherboard.vice.com/read/rewiring-the-brain-to-create-new-senses)  
+Discusses fascinating work to substitute and add new senses using technology. I was particularly enthralled by the idea of using the brain as a pattern recognition system for stock data.  
+
+## Investing
+[The Hedge Fund Managers Who Work for Tips](http://blog.instavest.com/the-hedge-fund-managers-who-work-for-tips)  
+Combines a history of hedge funds with a description of a new hedge fund business model. Instavest, a new startup, offers individuals the opportunity to co-invest with lead investors and then tip them if they're happy with their returns. So far, Instavest has observed that, on average, co-investors on their site tip 10.3% of the profits they receive.
+
+## Artificial Intelligence
+[Is consciousness an engineering problem?](http://aeon.co/magazine/psychology/is-consciousness-an-engineering-problem/)  
+Argues that framing consciousness as an engineering problem is more productive than the current practice of describing consciousness in quasi-magical terms. I think the author takes a reductionist approach to the complexities of self-awareness but understand and sympathize with his reasons for doing so.
+
+## Other Contributions
+[The Myth of the Arc of Justice by Will Baird](http://krazemon.github.io/posts/theMythOfTheArchOfJustice/)  
+Baird kindly wrote this article just for the newsletter, and I think it touches on an important but infrequently discussed topic. Drawing from his study of history, Baird discusses the dangerous tendency to discover patterns in history where none exist.
+
+[What Should We Do If the Islamic State Wins?](http://foreignpolicy.com/2015/06/10/what-should-we-do-if-isis-islamic-state-wins-containment/) (Will Baird)
+Argues for a policy of containment towards the Islamic State if they managed to solidify their control of the region they now control.

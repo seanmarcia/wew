@@ -1,0 +1,33 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+# Technology
+[How I Taught my Computer to Write its Own Music](http://nautil.us/issue/21/information/how-i-taught-my-computer-to-write-its-own-music)  
+Discusses a successful endeavor to create a computer-based entity that writes music. Mindblowing.
+
+[Digital Reality](http://edge.org/conversation/neil_gershenfeld-digital-reality)  
+*Edge* interviews Neil Gershenfeld, head of MIT's Center for Bits and Atoms. He discusses the future of manufacturing and fabrication and its impact on the world economy. This is a long one, but I really enjoyed it.
+
+[Hand of a Superhero](http://www.nytimes.com/2015/02/17/science/hand-of-a-superhero.html?ref=science&_r=0)  
+Profiles E-nable and other groups focused on improving upon the process of creating and distributing prosthetic hands for children.
+
+# Ecosystem
+[How to Grow a Forest Really, Really Fast](https://medium.com/ted-fellows/how-to-grow-a-forest-really-really-fast-d27df202ba09)  
+Explains Afforestt's mission to plant small, self-sustaining, and fast-growing forests throughout the world.
+
+# Human Interest
+[King David](http://www.theatlantic.com/national/archive/2015/02/king-david/385596/)  
+A student profiles the late NY Times journalist, David Carr. I was struck by this passage:
+
+  > David Carr convinced me that, through the constant and forceful application of principle, a young hopper, a fuck-up, a knucklehead, could bring the heavens, the vast heavens, to their knees. The principle was violent and incessant curiosity represented in the craft of narrative argument. That was the principle and craft I employed in writing "The Case for Reparations." That is part of the reason why the George Polk Award, the one with my name on it, belongs to David. But that is not the most significant reason.
+
+# Economy
+[Warning: too much finance is bad for the economy](http://www.economist.com/blogs/buttonwood/2015/02/finance-sector-and-growth)  
+I lack the economics background to argue for or against the assertion the made by the author. However, I'd love to hear more informed readers' opinions on the author's arguments.
+
+# Other Contributions
+[What ISIS Really Wants](http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/) (Don Casler)  
+Long, but solid article detailing the structure and motivations of ISIS. The more I learn about ISIS the more I realize how simultaneously absurd and terrifying the existence of an organization like this is.

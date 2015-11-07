@@ -1,0 +1,28 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+# Neuroscience
+[Researchers Find Missing Link Between Brain and Immune System](http://neurosciencenews.com/lymphatic-system-brain-neurobiology-2080/)  
+Discusses a recently discovered vessel that connects the brain and the lymphatic system. Although this article's not great, the discovery itself is a huge deal.
+
+[Better not look down...](http://thepsychologist.bps.org.uk/volume-28/june-2015/better-not-look-down)  
+A neurosurgeon reflects on his career and the mistakes he made. An introspective piece.
+
+# Droughts and Water Shortage
+[To Save California, Read "Dune"](http://nautil.us/issue/25/water/to-save-california-read-dune)  
+Argues that Frank Herbert's ideas from Dune are becoming a reality in California. Dune's my favorite book, although not due to the ecological aspects, so this article was a no brainer for me. It highlights the intersection of sci-fi, technology, and ecology well.
+
+# Quantified Self
+[A Temporary Tattoo That Senses Through Your Skin](http://spectrum.ieee.org/biomedical/devices/a-temporary-tattoo-that-senses-through-your-skin)  
+Investigates Biostamp, a class of wearable sensors that flexibly attach to your skin. Gives a peek into the future of wearable tracking technology.
+
+# Food Production
+[The Quest to Engineer the Perfect Potato](http://www.technologyreview.com/news/537936/the-quest-to-engineer-the-perfect-potato/)  
+Discusses an attempt to engineer out potatoes' costly inadequacies.
+
+# Other Contributions
+[How the Red Cross Raised Half a Billion Dollars for Haiti and Built Six Homes](https://www.propublica.org/article/how-the-red-cross-raised-half-a-billion-dollars-for-haiti-and-built-6-homes) (Kevin Francfort)  
+Investigates the Red Cross' work in Haiti and argues that the group has failed in their efforts to help rebuild the country.

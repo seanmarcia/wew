@@ -1,0 +1,56 @@
+---
+layout: post
+title: Weekly Newsletter (11-23-2014)
+category: posts
+draft: false
+---
+
+## Philosophy / History
+[Response to "Did Zen create the Kamikaze?"](http://krazemon.github.io/posts/response-to-nl11162014/)  
+A regular reader of the newsletter, Will Baird, responds to one of the articles I included in last week's newsletter. If I could pick one article in this newsletter for you to read, it would be this one. Will worked hard on this response, bringing an expert's mind to his critique and pulling knowledge from a wellspring of related sources and scholarly work. That being said, it is Will's ability to think critically and rigorously that ultimately makes this article worthwhile.
+
+[When Einstein Met Tagore](http://www.brainpickings.org/2012/04/27/when-einstein-met-tagore/)  
+Pulls out interesting excerpts from a book documenting a dialogue between Einstein and a famous Indian Philosopher. I've been meaning to include an article or two from [Brain Pickings](www.brainpickings.org) as I continuously enjoy Maria Popova's (the author of the site) writing and insight. 
+
+If you enjoyed the dialogue and want to read more excerpts from this conversation, I'm planning on reading the book from which this dialogue is excerpted, called [Science and the Indian Tradition](http://www.amazon.com/exec/obidos/ASIN/0415481341/braipick-20) over break and would love to have someone to read it with. Please let me know if you are interested.
+
+## Business and Policy
+[Inside Elon Musk's Billion dollar Gigafactory](http://fortune.com/inside-elon-musks-billion-dollar-gigafactory/)  
+Details the measures SpaceX took to generate the most beneficial yields and fertile environment for their gigafactory and the measures local governments took to land the Gigafactory in their state.
+
+[How a Basic Income Program Changed a Namibian Village](http://www.spiegel.de/international/world/a-new-approach-to-aid-how-a-basic-income-program-saved-a-namibian-village-a-642310.html)  
+Explores the effects a basic income program has had on a dirt poor Namibian village. Ever since I read [Accelerando](http://www.amazon.com/Accelerando-Singularity-Charles-Stross/dp/0441014151), I've been sympathetic to the idea and motivations behind basic income, despite my other views on economy and government intervention. Interestingly, Milton Friedman was one of the early proponents of a similar idea, called the [Negative Income Tax](https://www.youtube.com/watch?v=xtpgkX588nM). Shoot me an [email](mailto:stephenmalina@gmail.com) if you want to discuss this idea more.
+
+## Technology
+[The 12$ Phone](http://www.bunniestudios.com/blog/?page_id=3107)  
+Breaks down the process that led to the headline 12$ phone. This article dispels some of the Western notions about Chinese products' copycat nature and shows an example of a different but valid form of innovation.
+
+[Elon Musk testing X-Wing-like spacecraft](http://techcrunch.com/2014/11/22/space-x-x-wing-rocket-drone-landing-pads/)  
+Reveals the new spaceship Elon Musk just announced on which SpaceX is working. A good companion piece for the Gigafactory article.
+
+## Quantified Self
+[Getting Better at Getting Better](http://www.newyorker.com/magazine/2014/11/10/better-time)  
+Important to note the cyclical nature of our views on ability.
+Meticulously analyzes increases in performances in sports and a few other skill-based fields over the past century and tries to apply some of that logic to education.  
+
+This article elucidates the cyclical and boundary-spanning nature of our views on ability vs. talent. Since time immemorial, gurus and scientists have fought over the extent to which talent is embedded in our genes or environment vs the extent to which it is learnable and replicable (see the intense debates over the validity of Malcolm Gladwell's [10,000 Hour Rule](http://en.wikipedia.org/wiki/Outliers_\(book\)) rule for the modern manifestation of this phenomenon). I find this debate fascinating because it is influenced heavily by larger societal factors and creates strange bedfellows.
+
+For example, while ruling powers have traditionally used inherited talent as a justification for rule and oppression, many modern scientists also embrace the idea of primarily genetically-transmitted talent (see [here](http://www.slate.com/articles/health_and_science/science/2014/09/malcolm_gladwell_s_10_000_hour_rule_for_deliberate_practice_is_wrong_genes.html) for scientific argument for inherited talent). On the opposing side, both Marxist and Libertarian thinkers typically embrace the position that talent is primarily gained through hard work as it supports both groups' political agendas.
+
+[The cubicle gym](http://www.vox.com/2014/11/12/7186667/office-fitness-exercises-stretches)  
+Details the ways in which this author improved the "healthiness" of his work-place environment. I enjoyed this article because the techniques presented were more feasible and more tested (the author used cognitive tests to rigorously measure his performance throughout each experiment) than other articles of its ilk.
+
+## Biographical
+[At 90, Freeman Dyson Ponders his next challenge](http://www.wired.com/2014/03/quanta-freeman-dyson-qa/)  
+Author interviews Freeman Dyson. In keeping with my dual themes of biographical pieces and portraits of old masters, this piece portrays a man whose contributions to science are virtually unparalleled and who continues to work at the craft he loves.
+
+[The Men who live forever](http://www.menshealth.com/fitness/men-who-live-forever)  
+Documents the lifestyle of the Tarahumara Indians, a tribe whose claim to fame is their ultra marathon length races. If you enjoy this article, I recommend reading [Born to Run](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189), which is basically a longer version of this article. I read it a few years back and really enjoyed it.
+
+## Infographics
+[Into the Okavango: A Live Data exploration into the Okavango Delta](http://intotheokavango.org/)  
+Uses a combination of animation, tweets, pictures, and snippets to chart the progress of an expedition into the Okavango Delta, a large river delta in Botswana.
+
+## Other Contributions
+[The Secret Life of Passwords](http://www.nytimes.com/2014/11/19/magazine/the-secret-life-of-passwords.html?ref=technology&assetType=nyt_now&_r=0)  
+This is a beautiful examination of what passwords people choose and why. It begins with a heart-wrenching anecdote and goes on to reveal the sentimental, motivational, and whimsical impulses that shape the phrases people type into their computers every day. The article discusses the anthropology of passwords, the apparent conflict between secure and personalized passwords, and even consults with famed professor Douglas Hofstadter (author of “Godel, Escher, Bach”) on human nature and randomness. Well worth the read and the inevitable self-reflection on the reasoning behind your own passwords.

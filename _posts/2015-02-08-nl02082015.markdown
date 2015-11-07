@@ -1,0 +1,58 @@
+---
+layout: post
+title: Weekly Newsletter
+category: posts
+draft: false
+---
+# Mind and Brain
+[The Trip Treatment](http://www.newyorker.com/magazine/2015/02/09/trip-treatment)  
+Reviews new research on psychedelics and their gradual integration
+into mainstream psychiatry. Recounts the effects of
+psychedelic treatment on patients suffering from addiction or
+nearing the end of their lives.
+
+# Biographical
+[Meet Walter Pitts, The Man Who Tried to Redeem the World With Logic](http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)  
+Profiles Walter Pitts, a mathematician who worked alongside
+the founders of modern information theory but eventually suffered a
+crippling breakdown.
+
+[The Outside Game](http://www.newyorker.com/magazine/2015/01/12/outside-game)  
+Interviews and discusses the work of Howard Becker, a sociologist famous
+for studying deviants and their cultures. I'm not usually
+interested in sociology, but I found Becker's perspective on cultures
+and their essential elements fascinating.
+
+# Health
+[Why testosterone is the drug of the future](http://fusion.net/story/42619/why-testosterone-is-the-drug-of-the-future/)  
+Surveys various uses of medically administered testosterone for healthy
+individuals. Summarizes the societal trends and cultural expectations
+that gave way to this practice.
+
+Disclaimer: I'm not licensed to dispense medical advice and you should
+not act based on any medical-related opinions offered in this
+newsletter.
+
+# Vaccination
+[Measles: Misinformation Gone Viral](http://www.hoover.org/research/measles-misinformation-gone-viral)  
+Argues for a rational approach to vaccination. I felt that reading this
+article gave me a more well-rounded view of the ongoing vaccination
+debate than the ongoing banter between politicians. I hope that's
+true for you too.
+
+# Education
+[Latin Lives](http://www.thenation.com/article/196177/latin-lives)  
+Profiles the Paideia Institute, a school reviving the study of Latin
+as a living language. Ties in well with current discussions surrounding
+the value of the humanities, but, at times the author preaches more than
+he describes.
+
+# Personal Data
+[The Resume of the Future](http://designmind.frogdesign.com/2014/12/the-resume-of-the-future/)  
+Discusses the future of the resume in broad terms and then showcases
+the author's prototype of a futuristic resume.
+
+# Other Contributions
+[Resorting to freedom](http://www.economist.com/blogs/democracyinamerica/2015/02/rand-paul-vaccination?fsrc=scn/fb/wl/bl/resortingtofreedom) (Noah Reichblum)  
+Asserts that vaccines are a public good and that the government should
+regulate them if necessary.
