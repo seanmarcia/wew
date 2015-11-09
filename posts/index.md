@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Selected Syndicated Columns<br> by Walter Williams
+excerpt: "Articles by Week"
 ---
