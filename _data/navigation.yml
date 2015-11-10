@@ -1,10 +1,13 @@
 # Site navigation links
 
-- title: About
+- title: Biography
   url: /about/
 
 - title: Syndicated Columns
   url: /posts/
+
+- title: Courses
+  url: /courses/
 
 - title: Theme Setup
   url: /theme-setup/
